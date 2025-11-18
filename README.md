@@ -6,18 +6,18 @@ Performs operations described in the attached paper.
 Pulls data from Yahoo Finance and FRED and compares correlations indices from [-1, 1].
 
 Compares:
-    • BTC – Bitcoin spot price (USD)
-    • Gold – gold proxy (e.g., GLD ETF)
-    • USTreasury – U.S. 10-year Treasury total-return index or Treasury ETF
-    • IXC – global energy sector ETF
-    • IYE – U.S. energy sector ETF
-    • VDE – Vanguard energy ETF
-    • SPY – S&P 500 ETF (U.S. broad equities)
-    • VXUS – Vanguard Total International Stock ETF (ex-U.S. equities)
-    • U.S. Consumer Price Index (CPI)
-    • U.S. Producer Price Index (PPI)
-    • Effective federal funds rate (FedFunds)
-    • 10-year U.S. Treasury constant-maturity yield (GS10)
+- BTC – Bitcoin spot price (USD)
+- Gold – gold proxy (e.g., GLD ETF)
+- USTreasury – U.S. 10-year Treasury total-return index or Treasury ETF
+- IXC – global energy sector ETF
+- IYE – U.S. energy sector ETF
+- VDE – Vanguard energy ETF
+- SPY – S&P 500 ETF (U.S. broad equities)
+- VXUS – Vanguard Total International Stock ETF (ex-U.S. equities)
+- U.S. Consumer Price Index (CPI)
+- U.S. Producer Price Index (PPI)
+- Effective federal funds rate (FedFunds)
+- 10-year U.S. Treasury constant-maturity yield (GS10)
 
 If the correlation index approaches -1, the stronger an inverse correlation.
 If the correlation index approaches 1, the stronger a direct correlation.
