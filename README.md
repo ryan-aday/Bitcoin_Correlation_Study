@@ -6,8 +6,6 @@ This repository contains a Python script for analyzing how Bitcoin (BTC) relates
 
 The tool downloads historical market and macro data, aligns everything to a common time frame (2012-01-01 to today), and computes a variety of correlation measures (full-sample, rolling, regime-based, and different time resolutions).
 
-> **Note**: `requirements.txt` already lists all necessary dependencies. This README describes what the script does and how to use it.
-
 ---
 
 ## 1. Overview
