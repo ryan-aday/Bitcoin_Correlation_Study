@@ -19,6 +19,7 @@ If the correlation index approaches 1, the stronger a direct correlation.
 
 <img width="1200" height="700" alt="Figure_2" src="https://github.com/user-attachments/assets/cd385f4a-5b99-4f3b-ab82-35dd54d7a78b" />
 
+```
 === Correlation Matrix (ME-resampled returns) ===
 Ticker           BTC      Gold  USTreasury       IXC       IYE       SPY       VDE      VXUS
 Ticker
@@ -36,3 +37,4 @@ CPI        -0.019877
 PPI         0.038264
 FedFunds   -0.110845
 GS10        0.080606
+```
